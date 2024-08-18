@@ -26,7 +26,7 @@ Your CSV file should include the following columns:
 
 
 Developed by Neo Mauizan
-Example CSV File can be download here https://bit.ly/ExampleCSVFile
+Example CSV File can be download here https://bit.ly/DummyDataset
 """)
 
 # File uploader
